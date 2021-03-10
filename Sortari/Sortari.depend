@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1615392798 source:d:\info\sortari\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<vector>
+	<bits/stdc++.h>
+
